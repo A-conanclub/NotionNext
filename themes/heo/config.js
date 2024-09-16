@@ -4,12 +4,12 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-09-15', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的个人空间', url: 'https://www.conanclub.eu.org' },
+    { title: '本网页采用NotionNext搭建', url: 'https://www.tangly1024.com/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '记录生活',
+  HEO_HERO_TITLE_2: '与百态世间',
+  HEO_HERO_TITLE_3: 'CONANCLUB.EU.ORG',
+  HEO_HERO_TITLE_4: '古往今来',
+  HEO_HERO_TITLE_5: '朝花夕拾',
+  HEO_HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
