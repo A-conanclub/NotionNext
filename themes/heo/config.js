@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'CONANCLUB.EU.ORG',
   HEO_HERO_TITLE_4: '挚爱人生',
   HEO_HERO_TITLE_5: '庸人自扰',
-  HEO_HERO_TITLE_LINK: 'http://www.conanclub.eu.rog/life',
+  HEO_HERO_TITLE_LINK: 'http://www.conanclub.eu.org/life',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
